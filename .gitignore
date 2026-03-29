@@ -1,0 +1,12 @@
+crypto_env/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.hprof
+.env
+*.jks
+*.csv
+*.png
+n8n/
+snap/
